@@ -3,5 +3,9 @@ body {
 	background: #fadb6f;
 	margin-left: 15%;
 	margin-right: 15%;
-	font-family: serif, Sans-serif, Cursive;
+	font-family: Georgia, 'Times New Roman', Times, serif, cursive;
+	/* font-family: serif, Sans-serif, Cursive; */
+}
+tr {
+	text-align: center;
 }
