@@ -1,0 +1,91 @@
+
+h1{
+    font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+    text-align: center;
+    background-color: aqua;
+    padding: 40px;
+    margin-left: 15%;
+	margin-right: 15%;
+
+}
+p{
+    font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+}
+.topbar{
+    font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+    text-align: center;
+    background-color: rgb(55, 71, 71);
+    margin-left: 15%;
+	margin-right: 15%;
+    color: white;
+    padding: 15px;    
+}
+.skills{
+    font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+    text-align: center;
+    font-size: 30px;
+}
+.sidebar{
+    background-color: rgba(211,211,211, 0.3);
+    font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
+	margin-left: 20px;
+	width: 200px;
+    padding:10px;
+	position: relative;
+    margin-left: 15%;
+	margin-right: 15%;
+	float: right;
+	margin-top: 20px;
+	margin-bottom: 30px;
+
+}
+.picture-profile{
+	position: relative;
+	margin-top: 20px;
+    margin-left: 15%;
+    margin-right: 15px;
+	float: left;
+}
+.head-history{
+    font-weight: bold;
+    font-size: 20px;
+}
+.History{
+    font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+    text-align: left;
+    margin-top: 20px;
+    margin-left: 15%;
+	margin-right: 15%;
+}
+.head-me{
+    font-weight: bold;
+    font-size: 20px;
+}
+.Me{
+    font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+    text-align: left;
+    margin-left: 15%;
+	margin-right: 15%;
+}
+.Experience{
+    font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+    text-align: left;
+    margin-left: 15%;
+	margin-right: 15%;
+}
+.head-exp{
+    font-weight: bold;
+    font-size: 20px;
+}
+.work-head{
+    font-weight: bold;
+}
+.exp-head{
+    font-weight: bold;
+}
+a:hover {
+	background-color: #c0b27c;
+}
+a:visited, a:link {
+	color: white; 
+}

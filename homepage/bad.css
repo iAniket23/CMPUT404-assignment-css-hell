@@ -1,0 +1,98 @@
+body{
+    background-image: url("pfp/ugly-pic.jpg");
+}
+h1{
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    text-align: center;
+    background-image: url("pfp/ugly-pic.jpg");
+    padding: 40px;
+    margin-left: 15%;
+	margin-right: 15%;
+    color: yellow;
+    font-size: 500%;
+}
+.topbar{
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    text-align: center;
+    background-color: rgb(50, 255, 23);
+    margin-left: 15%;
+	margin-right: 15%;
+    color: rgb(0, 255, 76);
+    padding: 15px;    
+}
+.skills{
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    text-align: right;
+    font-size: 30px;
+    background-color: yellow;
+    color: rgb(255, 255, 255);
+}
+.sidebar{
+    background-color: rgba(250, 0, 0, 0.3);
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+	margin-left: 20px;
+	width: 200px;
+    padding:10px;
+	position: relative;
+    margin-left: 15%;
+	margin-right: 15%;
+	float: right;
+    color: rgb(255, 255, 255);
+	margin-top: 20px;
+	margin-bottom: 30px;
+
+}
+.picture-profile{
+	margin-left: 15%;
+	margin-right: 15%;
+}
+.head-history{
+    font-weight: bold;
+    font-size: 20px;
+    color: rgb(0, 255, 76);
+}
+p{
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    color: rgb(255, 255, 255);
+}
+.History{
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    text-align: center;
+    text-align: center;
+    
+    color: rgb(255, 255, 255);
+}
+.head-me{
+    font-weight: bold;
+    font-size: 50px;
+    color: rgb(0, 255, 76);
+}
+.Me{
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    text-align: center;
+    
+    color: rgb(255, 255, 255);
+}
+.Experience{
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    text-align: center;
+    
+    color: rgb(255, 255, 255);
+}
+.head-exp{
+    font-weight: bold;
+    font-size: 50px;
+    color: rgb(0, 255, 76);
+}
+.work-head{
+    font-weight: bold;
+}
+.exp-head{
+    font-weight: bold;
+}
+a:hover {
+	background-color: #080702;
+}
+a:visited, a:link {
+	color: rgb(230, 221, 221); 
+}
