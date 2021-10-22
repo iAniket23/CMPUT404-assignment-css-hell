@@ -1,7 +1,9 @@
-Assignment: CSS Hell
-====================
-MODIFICATIONS
-Removed all the css styling done in the html file. Edited few tags like <pre> and <p>. Made a new CSS file and referenced that into the html files.
+Assignment: CSS Hell     
+====================      
+MODIFICATIONS      
+
+Removed all the css styling done in the html file. Edited few tags like <pre> and <p>. 
+Made a new CSS file and referenced that into the html files.
 
 
 
