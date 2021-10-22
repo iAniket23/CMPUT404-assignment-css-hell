@@ -53,24 +53,29 @@ h1{
 }
 p{
     font-family: "Comic Sans MS", "Comic Sans", cursive;
+    text-align: center;
     color: rgb(255, 255, 255);
 }
 .History{
     font-family: "Comic Sans MS", "Comic Sans", cursive;
     text-align: center;
-    text-align: center;
+    
     
     color: rgb(255, 255, 255);
 }
 .head-me{
     font-weight: bold;
+    text-align: center;
     font-size: 50px;
+    margin-left: 15%;
+	margin-right: 15%;
     color: rgb(0, 255, 76);
 }
 .Me{
     font-family: "Comic Sans MS", "Comic Sans", cursive;
     text-align: center;
-    
+    margin-left: 15%;
+	margin-right: 15%;
     color: rgb(255, 255, 255);
 }
 .Experience{
@@ -82,6 +87,7 @@ p{
 .head-exp{
     font-weight: bold;
     font-size: 50px;
+    text-align: center;
     color: rgb(0, 255, 76);
 }
 .work-head{
